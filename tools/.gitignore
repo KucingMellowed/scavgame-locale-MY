@@ -1,3 +1,0 @@
-# review.mjs fetches EN.json versions within this directory
-# These shouldn't be committed back to the repository, though
-EN*.json
